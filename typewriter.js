@@ -12,4 +12,5 @@ const typewriter = function(sentence) {
   }, start);
 }
 
+
 typewriter("hello there from lighthouse labs");
